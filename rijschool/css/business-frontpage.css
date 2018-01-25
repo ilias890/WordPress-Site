@@ -1,0 +1,34 @@
+
+
+.business-header {
+    height:100%;
+    background: url('http://localhost/wordpress/wp-content/uploads/2017/09/header-img.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	width:100%;
+	
+}
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.mt-20{
+	margin-bottom:20px;
+	margin-top:20px;
+}
+.text-black{
+	color:darkslategray;
+}
+
+.card {
+    height: 100%;
+}
+
